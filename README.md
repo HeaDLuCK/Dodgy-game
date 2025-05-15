@@ -1,4 +1,4 @@
-##Dodge Game
+<h3 align="center">Dodge Game</h3>
 **Dodge Game** is my first-ever game project. It’s simple, like when a beginner web developer starts by building a basic HTML structure just to figure out how things work. The game is still in development, but once it's finished, I hope you'll enjoy the concept!
 
 #About the Game
